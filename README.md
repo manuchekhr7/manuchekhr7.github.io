@@ -1,3 +1,7 @@
+theme: jekylll-theme-minimal
+title: Dinoras
+description: ZZ
+
 <img src="banner.png" alt="SvelteJS application boilerplate with Webpack, scss, babel, fetchjs, postcss, jest, .env." align="center" />
 
 <br/>
