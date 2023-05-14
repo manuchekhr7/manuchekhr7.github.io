@@ -86,7 +86,7 @@ For more detailed documentation, check out https://pankod.github.io/svelte-boile
 
 
 <div>
- <img width="600" src="./cli.gif" >
+ <img width="600" src="https://images.app.goo.gl/Mf98p8EBRYVxuE2G8" >
 </div>
 <br/>
 <br/>
