@@ -35,7 +35,7 @@ description: ZZ
 This boilerplate make it easier to get started with a well-structured Svelte application.
 <br />
 <br />
-  <sub>Created by <a href="https://www.pankod.com">Pankod</a></sub>
+  <sub>Created by <a href="[https://www.pankod.com](https://images.app.goo.gl/RaweT67u9k6zGFZo6)">Pankod</a></sub>
 </div>
 
 
