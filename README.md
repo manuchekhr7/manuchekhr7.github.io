@@ -1,5 +1,7 @@
 <p align="center"><a href="https://tcell.tj/upload/medialibrary/8d4/ru.jpg"></a></p>
 
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
 
 <br/>
 <br/>
