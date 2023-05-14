@@ -1,6 +1,4 @@
-<p align="center"><a href="https://tcell.tj/upload/medialibrary/8d4/ru.jpg"></a></p>
-
-![Иллюстрация к проекту](https://github.com/1920x1080_787767.jpeg)
+![Image alt](https://github.com/{manuchekhr7}/{manuchekhr7}/raw/{main}/github.com/1920x1080_787767.jpeg)
 
 
 <br/>
