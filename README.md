@@ -1,11 +1,8 @@
-<p align="center"><a href="https://images.app.goo.gl/Mf98p8EBRYVxuE2G8"></a></p>
+<p align="center"><a href="https://tcell.tj/upload/medialibrary/8d4/ru.jpg"></a></p>
 
-
-<img src="[banner.png](https://images.app.goo.gl/Mf98p8EBRYVxuE2G8)" alt="SvelteJS application boilerplate with Webpack, scss, babel, fetchjs, postcss, jest, .env." align="center" />
 
 <br/>
 <br/>
-<div align="center">Svelte application boilerplate with Webpack, Babel, PostCSS, Sass, Fetch, Jest, .Env, EsLint.</div>
 <br/>
 
 <div align="center">
