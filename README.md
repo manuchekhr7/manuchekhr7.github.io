@@ -1,6 +1,6 @@
 ![Image alt](https://github.com//manuchekhr7/manuchekhr7.github.io/main/img2.png)
 
-
+ <img width="600" src="https://github.com//manuchekhr7/manuchekhr7.github.io/main/img2.png" >
 
 <br/>
 <br/>
