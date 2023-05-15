@@ -1,6 +1,6 @@
-![Иллюстрация к проекту](https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/imf.jpeg)
+![Иллюстрация к проекту](https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/imgz.png)
 
- <img width="600" src="https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/imgf.jpeg">
+ <img width="600" src="https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/imgz.png">
 
 <br/>
 <br/>
