@@ -1,5 +1,3 @@
-![Image alt](https://github.com/manuchekhr7/main/manuchekhr7.github.io/img2.png)
-
 ![Иллюстрация к проекту](https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/img2.png)
 
  <img width="600" src="https://github.com/manuchekhr7/manuchekhr7.github.io/raw/main/img2.png">
