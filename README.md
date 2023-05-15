@@ -1,4 +1,4 @@
-![Image alt](https://github.com//manuchekhr7/manuchekhr7.github.io/blob/main/img2.png)
+![Image alt](https://github.com//manuchekhr7/manuchekhr7.github.io/main/img2.png)
 
 
 
